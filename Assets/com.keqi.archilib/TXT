@@ -5,6 +5,6 @@ UPM(Unity Package Manager)
 file:///E:/2021.3.0f1c1/Editor/Data/Documentation/en/Manual/CustomPackages.html
 
 添加UPM方式
-ssh://git@github.com/chenwansal/ArchiLib.git?path=/Assets/com.jack.archilib#master
+ssh://git@github.com/keiqkeqi321/FrameLib.git?path=/Assets/com.keqi.archilib#main
 
 所有程序员，都要有其自己的库。
