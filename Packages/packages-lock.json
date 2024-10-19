@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.keqi.archilib": {
+      "version": "https://github.com/keiqkeqi321/FrameLib.git?path=/Assets/com.keqi.archilib#master",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e2b3f8bccc0f140f09a2722d62e503d7ff0c48c8"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.6",
       "depth": 0,
