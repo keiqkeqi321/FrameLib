@@ -9,7 +9,9 @@ using UnityEngine;
 using UnityEngine.UI;
 namespace ArchiLib
 {
-
+    /// <summary>
+    /// 查找当前节点在场景中所有组件的引用关系
+    /// </summary>
     public class NodeRefrenceEditorWindow : EditorWindow
     {
         public GameObject selectObj;
